@@ -1,0 +1,10 @@
+#burgerImg {
+    height: 20%;
+    width: 20%;
+    float:left;
+}
+#header {
+    position: relative;
+    top: 18px;
+    left: 10px;
+}
